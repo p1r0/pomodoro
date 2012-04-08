@@ -1,0 +1,6 @@
+*~
+*.o
+*.aif
+*.dblite
+*.db
+/pomodoro
